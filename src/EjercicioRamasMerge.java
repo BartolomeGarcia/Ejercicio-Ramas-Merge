@@ -5,4 +5,5 @@ public class EjercicioRamasMerge {
 	int numeroTres;
 	int numeroCuatro;
 	int numeroCinco;
+	String nombre;
 }
