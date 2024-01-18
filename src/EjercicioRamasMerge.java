@@ -4,4 +4,5 @@ public class EjercicioRamasMerge {
 	int numeroDos;
 	int numeroTres;
 	int numeroCuatro;
+	int numeroCinco;
 }
