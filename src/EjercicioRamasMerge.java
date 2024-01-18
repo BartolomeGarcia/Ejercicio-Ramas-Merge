@@ -8,4 +8,5 @@ public class EjercicioRamasMerge {
 	String nombre;
 	int numeroSeis;
 	String apellidos;
+	int numeroSiete;
 }
